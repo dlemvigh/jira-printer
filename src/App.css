@@ -46,6 +46,11 @@
   border: 0 solid
 }
 
+main {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
 button {
   background-color: white;
   border-color: var(--color-mid);
